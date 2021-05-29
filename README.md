@@ -30,7 +30,6 @@ Our website links users to everything they need to take care of themselves and t
 * Login/Signup <br>
 * 3-D Visualization using AR
 * Appointment Booking <br>
-* Chatbot <br>
 * Contact us <br>
 * FAQs <br>
 
