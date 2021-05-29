@@ -14,10 +14,15 @@ Our website links users to everything they need to take care of themselves and t
 
 ![Home](/images/readme/2.png)
 
+### Models
+![Home](/images/readme/5.png)
+
 ### Contact Us
 
 ![Home](/images/readme/3.png)
 
+### Login/Signup
+![Home](/images/readme/6.png)
 
 
 ## Features
