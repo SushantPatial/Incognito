@@ -34,11 +34,12 @@ Our website links users to everything they need to take care of themselves and t
 * FAQs <br>
 
 ## 👇 Download Files
-* go to our GitHub repository: https://github.com/anushkajain6459/Incognito
+* go to our GitHub repository: https://github.com/SushantPatial/Incognito
 * Download Zip or clone repo
 * Then open the folder in your IDE 
 * Run index.html file
 
-
+## Website
+https://sushantpatial.github.io/Virtual-Hospital/
 
 
